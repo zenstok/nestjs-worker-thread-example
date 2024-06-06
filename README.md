@@ -24,5 +24,5 @@ $ yarn run start:prod
 ## Stay in touch
 
 - Author - [zenstok](https://github.com/zenstok)
-- Blog - [https://software-pill.blogspot.com](https://software-pill.blogspot.com)
+- Blog - [https://rabbitbyte.club](https://rabbitbyte.club)
 
