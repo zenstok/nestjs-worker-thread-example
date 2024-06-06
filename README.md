@@ -25,4 +25,5 @@ $ yarn run start:prod
 
 - Author - [zenstok](https://github.com/zenstok)
 - Blog - [https://rabbitbyte.club](https://rabbitbyte.club)
+- Email - rares.tarabega@yahoo.com
 
